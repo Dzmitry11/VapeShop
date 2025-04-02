@@ -12,5 +12,5 @@ phases:
       - echo Build completed on `data`
 artifacts:
   files:
-    - target/*.jar
+    - target/JavaWeb-0.0.1-SNAPSHOT.jar
   discard-paths: yes
