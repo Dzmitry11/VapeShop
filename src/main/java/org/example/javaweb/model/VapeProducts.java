@@ -64,5 +64,4 @@ public class VapeProducts {
     public String getVolume() {return volume;}
     public void setVolume(String volume) {this.volume = volume;}
 
-
 }

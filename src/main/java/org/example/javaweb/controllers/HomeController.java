@@ -30,4 +30,15 @@ public class HomeController  {
         return "list";
     }
 
+
+//    @GetMapping(path="/dogs")
+//    String dogList(Model model)
+//    {
+//        model.addAttribute("activeFunction", "home");
+//
+//        model.addAttribute("vapeproducts", dogRepository.findAll());
+//        return "vapeproducts";
+//    }
+
+
 }
